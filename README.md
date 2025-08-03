@@ -1,4 +1,4 @@
-"# PDF-Knowledge-Extractor with memory" 
+### PDF-Knowledge-Extractor with memory
 
 <img width="1891" height="456" alt="image" src="https://github.com/user-attachments/assets/f41221cd-3a9c-4417-a804-26678124bc38" />
 
